@@ -13,7 +13,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 ### Example
 
 ```md
-![Image of Pokemon](https://octodex.github.com/images/yaktocat.png)
+![Image of Pokemon](https://octodex.github.com/mona-the-rivetertocat/)
 ```
 
 #### How it looks
